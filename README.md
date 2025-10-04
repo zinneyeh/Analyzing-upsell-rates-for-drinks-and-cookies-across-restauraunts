@@ -6,7 +6,7 @@
 ---
 
 ## Author:  
-_[Zin Min Thant]_
+_Zin Min Thant_
 
 ---
 
